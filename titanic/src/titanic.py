@@ -5,6 +5,15 @@ import matplotlib.pyplot as plt
 sns.set()
 
 """
+https://writeren.tistory.com/77?category=757132
+클론 코딩
+2019년 8월 캐글 공부
+"""
+
+
+
+
+"""
 
 Columns Info
 ---------------------
